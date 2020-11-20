@@ -13,6 +13,9 @@
 # Ignore log files
 *.log
 
+# Ignore .dump files (used to store serialized objects)
+*.dump
+
 # Used by dotenv library to load environment variables.
 # .env
 
